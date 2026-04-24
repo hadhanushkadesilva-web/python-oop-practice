@@ -8,3 +8,5 @@ as part of my AI & ML internship training.
 - Inheritance - Vehicle, Car and Bike classes
 - Polymorphism - Animal, Dog, Cat and Duck classes
 - Abstraction - Shape abstract class with Circle and Rectangle
+- Inheritance & Polymorphism — Person, Student 
+  and Teacher school system
